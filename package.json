@@ -1,0 +1,33 @@
+{
+  "name": "react-native-etf-table",
+  "version": "1.0.0",
+  "description": "A highly customizable, performant ETF table component for React Native with horizontal and vertical scrolling",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "table",
+    "etf",
+    "data-table",
+    "scrollable-table",
+    "financial-table",
+    "customizable-table"
+  ],
+  "author": "Aman Kumar <spn.amankumar@gmail.com>",
+  "license": "MIT",
+  "peerDependencies": {
+    "react": ">=16.8.0",
+    "react-native": ">=0.60.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iamamanprajapati/react-native-etf-table.git"
+  },
+  "bugs": {
+    "url": "https://github.com/iamamanprajapati/react-native-etf-table/issues"
+  },
+  "homepage": "https://github.com/iamamanprajapati/react-native-etf-table#readme"
+}
+
