@@ -444,7 +444,7 @@ const ETFTableNative = ({
         ]}
         numberOfLines={2}
       >
-        {value}
+        {defaultFormatValue(value, false)}
       </Text>
     );
   };
